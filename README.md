@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Frontend Development (React.js, JavaScript), Building modern and responsive UI/UX**
 
-- 📫 How to reach me **📩 Email: yashpatel01.work@gmail.com 🔗 LinkedIn: linkedin.com/in/yash-patel72010 💻 GitHub: github.com/PatelYaSH72**
+- 📫 How to reach me **<br>📩 Email: yashpatel01.work@gmail.com <br> 🔗 LinkedIn: linkedin.com/in/yash-patel72010 <br> 💻 GitHub: github.com/PatelYaSH72**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nU0hc94xCi4EwxBeyWxbYDIYP7ddJFg0/view?usp=drive_link](https://drive.google.com/file/d/1nU0hc94xCi4EwxBeyWxbYDIYP7ddJFg0/view?usp=drive_link)
 

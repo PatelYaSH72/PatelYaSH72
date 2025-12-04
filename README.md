@@ -1,8 +1,8 @@
 # 💫 About Me:
-I’m currently working on **Pandas** 👉 [https://pandaas.onrender.com](https://pandaas.onrender.com) <br><br>
+I’m currently working on **Pandas** 👉 [Pandas](https://pandaas.onrender.com) <br><br>
 🌱 I’m currently learning **Python for Python Backend, AI/ML** <br><br>
 🤝 I’m looking for help with **Doctor booking website** <br><br>
-👨‍💻 All of my projects are available at my **Portfolio** 👉 [https://yash-patel-h6ey.onrender.com](https://yash-patel-h6ey.onrender.com) <br><br>
+👨‍💻 All of my projects are available at my **Portfolio** 👉 [Portfolio](https://yash-patel-h6ey.onrender.com) <br><br>
 💬 Ask me about **Frontend Development (React.js, JavaScript)**, Building modern and responsive **UI/UX** <br><br>
 📫 **How to reach me** <br>
 📩 Email: yashpatel01.work@gmail.com <br>

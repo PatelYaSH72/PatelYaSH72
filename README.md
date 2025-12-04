@@ -1,4 +1,4 @@
-<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/c94977d7-2d02-45ba-a6a7-d92ef316b3bf" /><h1 align="center">Hi 👋, I'm Patel Yashkumar Vishnubhai</h1>
+<h1 align="center">Hi 👋, I'm Patel Yashkumar Vishnubhai</h1>
 <h3 align="center">Passionate About Web Development, AI & Clean UI Design</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/2e67764a-2e21-4089-9a6e-8c959e1f2e8d">

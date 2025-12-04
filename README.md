@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Python for Python Backend, AI/ML**
 
 - 🤝 I’m looking for help with **Doctor booking website**
-
+- 👨‍💻 All of my projects are available at [Portfolio]([Pandas](https://pandaas.onrender.com/))
 - 💬 Ask me about **Frontend Development (React.js, JavaScript), Building modern and responsive UI/UX**
 
 - 📫 How to reach me **<br>📩 Email: yashpatel01.work@gmail.com <br> 🔗 LinkedIn: linkedin.com/in/yash-patel72010 <br> 💻 GitHub: github.com/PatelYaSH72**

@@ -1,6 +1,6 @@
 # 💫 About Me:
  I’m currently working on Pandas)<br><br>🌱 I’m currently learning Python for Python Backend, AI/ML<br><br>🤝 I’m looking for help with Doctor booking website<br><br>👨‍💻 All of my projects are available at Portfolio)<br><br>💬 Ask me about Frontend Development (React.js, JavaScript), Building modern and responsive UI/UX<br><br>📫 How to reach me<br>📩 Email: yashpatel01.work@gmail.com<br>🔗 LinkedIn: linkedin.com/in/yash-patel72010<br>💻 GitHub: github.com/PatelYaSH72<br><br>📄 Know about my experiences https://drive.google.com/file/d/1nU0hc94xCi4EwxBeyWxbYDIYP7ddJFg0/view?usp=drive_link<br><br>⚡ Fun fact I write cleaner code than my handwriting.
-
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="017yashpatel" height="30" width="40" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/017yashpatel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yash_2k4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-patel72010) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashpatel01.work@gmail.com) 

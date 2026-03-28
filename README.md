@@ -1,98 +1,95 @@
-# 💫 About Me
+<h1 align="center">Hi 👋, I'm Yash Patel</h1>
 
-Hi 👋, I'm Yash Patel  
-A passionate **Full Stack Developer** focused on building scalable web applications and exploring **AI/ML & Backend systems**
-
----
-
-## 🚀 Current Focus
-
-- 🐼 Working on **Pandas-based Data Platform**  
-  👉 https://pandas-frontend.onrender.com/
-
-- ⚡ Improving **API Performance & Optimization**
-
-- 🌱 Learning **Python Backend + AI/ML**
-
-- 🤝 Building a **Doctor Booking System (Full Stack)**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Backend+%26+API+Optimization;DSA+%7C+System+Design+Learner;Building+Scalable+Web+Apps" />
+</p>
 
 ---
 
-## 💼 Projects
+## 🚀 About Me
 
-- 🔹 Built **3 Full Stack Projects** (Production-ready)
-- 🔹 Focus on:
-  - Clean Architecture
-  - API Optimization
-  - Scalable Backend Systems
-  - Responsive UI/UX
+- 💻 Full Stack Developer building **scalable web applications**
+- 🧠 Strong in **DSA, Problem Solving & API Optimization**
+- 🤖 Exploring **Python Backend + AI/ML**
+- 🏥 Building a **Doctor Booking System**
+- 🌐 Portfolio: https://yash-patel-h6ey.onrender.com
 
-👉 Portfolio:  
-https://yash-patel-h6ey.onrender.com
+---
+
+## 💼 Featured Projects
+
+### 🔹 Pandas – AI Tools Discovery Platform  
+- MERN stack platform to discover & compare AI tools  
+- JWT authentication + role-based admin panel  
+- Semantic search & filtering system  
+- Optimized API performance  
+
+🔗 https://pandas-frontend.onrender.com  
+
+---
+
+### 🔹 Doctors – Appointment Booking System  
+- Full-stack booking system with dashboards  
+- Razorpay integration for payments  
+- Admin panel for management  
+
+---
+
+### 🔹 GenWeb.ai – AI Website Builder  
+- AI-powered website generator (OpenAI/Claude)  
+- Real-time preview & editing  
+- OAuth + JWT authentication  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-- React.js, JavaScript, HTML, CSS, Redux, Vite
-
-### ⚙️ Backend
-- Node.js, Express.js, REST APIs, JWT Authentication
-
-### 🗄️ Database
-- MongoDB, MySQL
-
-### ☁️ Tools & Cloud
-- Render, Vercel, Google Cloud
-
-### 🧪 Dev Tools
-- Git, GitHub, Postman, NPM, Nodemon
-
-### 🎨 Design
-- Figma, Canva
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,tailwind,git,github,vercel,render,firebase" />
+</p>
 
 ---
 
-## 📈 What I Bring
+## 🧠 DSA & Learning
 
-✔ Strong understanding of **Data Structures & Problem Solving**  
-✔ Experience in **Full Stack Development**  
-✔ Focus on **Performance Optimization (API + UI)**  
-✔ Building **real-world scalable applications**
-
----
-
-## 📫 Connect With Me
-
-- 📩 Email: yashpatel01.work@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/yash-patel72010  
-- 💻 GitHub: https://github.com/PatelYaSH72  
-
----
-
-## 📄 Resume
-
-👉 https://drive.google.com/file/d/1TdyauWD_F-ZMZEeZWZ7nCQwKs9ADVZIi/view
-
----
-
-## ⚡ Fun Fact
-
-I write cleaner code than my handwriting 😄
+- 📌 Arrays, Two Pointer, Kadane’s Algorithm  
+- 📌 Focus on **Time & Space Optimization**  
+- 📌 Learning **System Design & Backend Scaling**
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=PatelYaSH72&theme=dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PatelYaSH72&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelYaSH72&theme=dark&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PatelYaSH72&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PatelYaSH72&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelYaSH72&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=PatelYaSH72&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PatelYaSH72&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:yashpatel01.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yash-patel72010"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/PatelYaSH72"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+<p align="center">
+I write cleaner code than my handwriting 😄
+</p>

@@ -51,9 +51,10 @@
 
 ## 🧠 DSA & Learning
 
-- 📌 Arrays, Two Pointer, Kadane’s Algorithm  
-- 📌 Focus on **Time & Space Optimization**  
-- 📌 Learning **System Design & Backend Scaling**
+- 📌 Currently learning **Data Structures & Algorithms**
+- 📌 Practicing Arrays, Searching, Two Pointer Technique  
+- 📌 Understanding Time & Space Complexity  
+- 📌 Improving problem-solving skills daily  
 
 ---
 

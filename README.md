@@ -12,7 +12,6 @@
 - 🧠 Strong in **DSA, Problem Solving & API Optimization**
 - 🤖 Exploring **Python Backend + AI/ML**
 - 🏥 Building a **Doctor Booking System**
-- 🌐 Portfolio: https://yash-patel-h6ey.onrender.com
 
 ---
 

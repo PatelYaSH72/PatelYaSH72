@@ -9,7 +9,7 @@ I’m currently working on **Pandas** 👉 [Pandas](https://pandas-frontend.onre
 🔗 LinkedIn: https://linkedin.com/in/yash-patel72010 <br>
 💻 GitHub: https://github.com/PatelYaSH72 <br><br>
 📄 Know about my experiences:  
-[Resume](https://drive.google.com/file/d/1tmvnQQnXVuvYzTKXJqkhrTSlba9iPG23/view?usp=drive_link) <br><br>
+[Resume]([https://drive.google.com/file/d/1tmvnQQnXVuvYzTKXJqkhrTSlba9iPG23/view?usp=drive_link](https://drive.google.com/file/d/1TdyauWD_F-ZMZEeZWZ7nCQwKs9ADVZIi/view?usp=drive_link)) <br><br>
 ⚡ **Fun fact**: I write cleaner code than my handwriting.
 
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="017yashpatel" height="30" width="40" />

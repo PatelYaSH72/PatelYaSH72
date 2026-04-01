@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Patel</h1>
+<h1 align="center">H 👋, I'm Yash Patel</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Backend+%26+API+Optimization;DSA+%7C+System+Design+Learner;Building+Scalable+Web+Apps" />

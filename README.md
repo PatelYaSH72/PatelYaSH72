@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About ME
+## 🚀 Abou ME
 
 - 💻 Full Stack Developer building **scalable web applications**
 - 🧠 Strong in **DSA, Problem Solving & API Optimization**

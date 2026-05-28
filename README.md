@@ -15,7 +15,7 @@
 
 ---
 
-## 💼 Featured Projects
+## 💼 Featured Project
 
 ### 🔹 Pandas – AI Tools Discovery Platform  
 - MERN stack platform to discover & compare AI tools  

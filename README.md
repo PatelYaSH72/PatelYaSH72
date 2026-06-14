@@ -1,65 +1,73 @@
 <h1 align="center">Hi 👋, I'm Yash Patel</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Backend+%26+API+Optimization;DSA+%7C+System+Design+Learner;Building+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Backend+%26+API+Optimization;DSA+%7C+System+Design+Learner;Building+Scalable+Web+Apps;Exploring+Agentic+AI+%26+Automation" />
 </p>
 
 ---
 
-## 🚀 About ME
-
+## 🚀 About Me
 - 💻 Full Stack Developer building **scalable web applications**
 - 🧠 Strong in **DSA, Problem Solving & API Optimization**
 - 🤖 Exploring **Python Backend + AI/ML**
+- 🦾 Currently learning **Agentic AI** — building autonomous AI agents & workflows
 - 🏥 Building a **Doctor Booking System**
 
 ---
 
-## 💼 Featured Project
+## 🦾 Agentic AI Journey
+> *Teaching machines to think, plan & act autonomously*
 
-### 🔹 Pandas – AI Tools Discovery Platform  
-- MERN stack platform to discover & compare AI tools  
-- JWT authentication + role-based admin panel  
-- Semantic search & filtering system  
-- Optimized API performance  
-
-🔗 https://pandas-frontend.onrender.com  
-
----
-
-### 🔹 Doctors – Appointment Booking System  
-- Full-stack booking system with dashboards  
-- Razorpay integration for payments  
-- Admin panel for management  
+- 🧩 Learning **AI Agents** — autonomous systems that reason & take actions
+- 🔗 Exploring **LangChain / LangGraph** for multi-step agent workflows
+- 🛠️ Building agents with **tool use, memory & planning**
+- 🌐 Studying **MCP (Model Context Protocol)** for agent-tool integration
+- 📚 Understanding **RAG (Retrieval Augmented Generation)** pipelines
+- 🚀 Goal: Build production-ready AI agents that automate real workflows
 
 ---
 
-### 🔹 GenWeb.ai – AI Website Builder  
-- AI-powered website generator (OpenAI/Claude)  
-- Real-time preview & editing  
-- OAuth + JWT authentication  
+## 💼 Featured Projects
+
+### 🔹 Pandas – AI Tools Discovery Platform
+- MERN stack platform to discover & compare AI tools
+- JWT authentication + role-based admin panel
+- Semantic search & filtering system
+- Optimized API performance
+
+🔗 https://pandas-frontend.onrender.com
+
+---
+
+### 🔹 Doctors – Appointment Booking System
+- Full-stack booking system with dashboards
+- Razorpay integration for payments
+- Admin panel for management
+
+---
+
+### 🔹 GenWeb.ai – AI Website Builder
+- AI-powered website generator (OpenAI/Claude)
+- Real-time preview & editing
+- OAuth + JWT authentication
 
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,tailwind,git,github,vercel,render,firebase" />
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,tailwind,git,github,vercel,render,firebase,python" />
 </p>
 
 ---
 
 ## 🧠 DSA & Learning
-
 - 📌 Currently learning **Data Structures & Algorithms**
-- 📌 Practicing Arrays, Searching, Two Pointer Technique  
-- 📌 Understanding Time & Space Complexity  
-- 📌 Improving problem-solving skills daily  
+- 📌 Practicing Arrays, Searching, Two Pointer Technique
+- 📌 Understanding Time & Space Complexity
+- 📌 Improving problem-solving skills daily
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PatelYaSH72&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
@@ -71,7 +79,6 @@
 ---
 
 ## 🏆 Achievements
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PatelYaSH72&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
@@ -79,7 +86,6 @@
 ---
 
 ## 📫 Connect With Me
-
 <p align="center">
   <a href="mailto:yashpatel01.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/yash-patel72010"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -89,7 +95,6 @@
 ---
 
 ## ⚡ Fun Fact
-
 <p align="center">
 I write cleaner code than my handwriting 😄
 </p>

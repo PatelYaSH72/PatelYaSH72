@@ -149,7 +149,15 @@ Features:
 ### Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### Vector Databases
+
+<p align="center">
+
+ChromaDB • pgvector
+
 </p>
 
 ### AI & Backend

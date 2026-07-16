@@ -1,100 +1,255 @@
 <h1 align="center">Hi 👋, I'm Yash Patel</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Backend+%26+API+Optimization;DSA+%7C+System+Design+Learner;Building+Scalable+Web+Apps;Exploring+Agentic+AI+%26+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Enterprise+RAG+Developer;Agentic+AI+Learner;FastAPI+%7C+Python+Backend;Building+Production-Ready+AI+Applications" />
 </p>
 
----
-
-## 🚀 About Me
-- 💻 Full Stack Developer building **scalable web applications**
-- 🧠 Strong in **DSA, Problem Solving & API Optimization**
-- 🤖 Exploring **Python Backend + AI/ML**
-- 🦾 Currently learning **Agentic AI** — building autonomous AI agents & workflows
-- 🏥 Building a **Doctor Booking System**
+<h3 align="center">
+Passionate about building scalable web applications and intelligent AI systems.
+</h3>
 
 ---
 
-## 🦾 Agentic AI Journey
-> *Teaching machines to think, plan & act autonomously*
+# 🚀 About Me
 
-- 🧩 Learning **AI Agents** — autonomous systems that reason & take actions
-- 🔗 Exploring **LangChain / LangGraph** for multi-step agent workflows
-- 🛠️ Building agents with **tool use, memory & planning**
-- 🌐 Studying **MCP (Model Context Protocol)** for agent-tool integration
-- 📚 Understanding **RAG (Retrieval Augmented Generation)** pipelines
-- 🚀 Goal: Build production-ready AI agents that automate real workflows
+- 💻 Full Stack MERN Developer passionate about building scalable web applications.
+- 🤖 Currently learning **Enterprise RAG, GraphRAG & Agentic AI**.
+- 🐍 Exploring **Python Backend** with **FastAPI**.
+- 🧠 Strong interest in **System Design, Backend Engineering & AI Applications**.
+- 📚 Continuously improving **Data Structures & Algorithms**.
+- 🎯 Goal: Become an **AI Engineer** building production-ready AI systems.
 
 ---
 
-## 💼 Featured Projects
+# 🧠 What I'm Currently Learning
 
-### 🔹 Pandas – AI Tools Discovery Platform
-- MERN stack platform to discover & compare AI tools
-- JWT authentication + role-based admin panel
-- Semantic search & filtering system
-- Optimized API performance
+- ✅ Standard RAG
+- ✅ Advanced RAG Techniques
+- 🚀 GraphRAG
+- 🚀 Agentic AI
+- 🚀 LangGraph
+- 🚀 MCP (Model Context Protocol)
+- 🚀 FastAPI
+- 🚀 Enterprise AI Architecture
+- 🚀 AI Agent Workflows
+
+---
+
+# 🦾 Current Focus
+
+### 🏢 Enterprise RAG Platform *(Current Project)*
+
+- Hybrid Search (BM25 + Vector Search)
+- Query Expansion
+- RAGAS Evaluation
+- Role-Based Access Control (RBAC)
+- Document Management
+- FastAPI Backend
+- React Frontend
+- Chroma Vector Database
+- HuggingFace Embeddings
+- Enterprise Dashboard
+
+---
+
+### 🧩 GraphRAG *(Learning Project)*
+
+- Knowledge Graph Fundamentals
+- Entity & Relationship Extraction
+- Graph-based Retrieval
+- Context-aware Question Answering
+
+---
+
+### 🤖 Agentic AI
+
+Currently exploring:
+
+- AI Agents
+- Tool Calling
+- Planning
+- Memory
+- Multi-step Reasoning
+- LangGraph Workflows
+- MCP (Model Context Protocol)
+
+---
+
+# 💼 Featured Projects
+
+## 🏢 Enterprise RAG Platform *(In Progress)*
+
+An enterprise-ready Retrieval-Augmented Generation platform featuring:
+
+- Hybrid Search
+- Query Expansion
+- RAGAS Evaluation
+- Admin & User Dashboard
+- Smart Document Search
+- FastAPI Backend
+- React Frontend
+
+**Tech Stack**
+
+React • FastAPI • LangChain • ChromaDB • HuggingFace • Python
+
+---
+
+## 🏥 Doctor Appointment Booking System
+
+A complete MERN application featuring:
+
+- Appointment Booking
+- Razorpay Payment Integration
+- Admin Dashboard
+- User Authentication
+- Responsive UI
+
+**Tech Stack**
+
+MongoDB • Express • React • Node.js • Tailwind CSS
+
+---
+
+## 🌐 Pandas – AI Tools Discovery Platform
+
+A MERN platform to discover AI tools.
+
+Features:
+
+- JWT Authentication
+- Admin Dashboard
+- Search & Filtering
+- REST APIs
 
 🔗 https://pandas-frontend.onrender.com
 
 ---
 
-### 🔹 Doctors – Appointment Booking System
-- Full-stack booking system with dashboards
-- Razorpay integration for payments
-- Admin panel for management
+# 🛠️ Tech Stack
 
----
+### Languages
 
-### 🔹 GenWeb.ai – AI Website Builder
-- AI-powered website generator (OpenAI/Claude)
-- Real-time preview & editing
-- OAuth + JWT authentication
-
----
-
-## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,tailwind,git,github,vercel,render,firebase,python" />
+<img src="https://skillicons.dev/icons?i=js,python" />
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### AI & Backend
+
+<p align="center">
+
+LangChain • LangGraph • RAG • GraphRAG • ChromaDB • HuggingFace Embeddings • MCP
+
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vercel,render,vscode,postman" />
 </p>
 
 ---
 
-## 🧠 DSA & Learning
-- 📌 Currently learning **Data Structures & Algorithms**
-- 📌 Practicing Arrays, Searching, Two Pointer Technique
-- 📌 Understanding Time & Space Complexity
-- 📌 Improving problem-solving skills daily
+# 📈 Learning Roadmap
+
+| Technology | Status |
+|------------|--------|
+| MERN Stack | ✅ Completed |
+| Standard RAG | ✅ Completed |
+| Advanced RAG | ✅ Completed |
+| GraphRAG | 🚀 Learning |
+| Agentic AI | 🚀 Learning |
+| LangGraph | 🚀 Learning |
+| FastAPI | 🚀 Learning |
+| MCP | 🚀 Learning |
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PatelYaSH72&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PatelYaSH72&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelYaSH72&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=PatelYaSH72&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=PatelYaSH72&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelYaSH72&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+# 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PatelYaSH72&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=PatelYaSH72&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
+
 <p align="center">
-  <a href="mailto:yashpatel01.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yash-patel72010"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/PatelYaSH72"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<a href="mailto:yashpatel01.work@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/yash-patel72010">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PatelYaSH72">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Currently Exploring
+
+- Enterprise RAG
+- GraphRAG
+- Agentic AI
+- LangGraph
+- MCP
+- FastAPI
+- AI Workflows
+- Production AI Systems
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Enterprise RAG
+- 🚀 Build Production GraphRAG Applications
+- 🚀 Develop Autonomous AI Agents
+- 🚀 Contribute to Open Source AI Projects
+- 🚀 Land an AI Engineer Role
+
+---
+
 <p align="center">
-I write cleaner code than my handwriting 😄
+<i>"Building intelligent systems that don't just answer—they reason, retrieve, and act."</i>
 </p>
